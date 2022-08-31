@@ -1,14 +1,7 @@
-# Build and deploy machine learning web app using PyCaret and Streamlit
-#### A beginner's guide to deploy machine learning app on Heroku PaaS
-
-Read the complete post: https://medium.com/@moez_62905/build-and-deploy-machine-learning-web-app-using-pycaret-and-streamlit-28883a569104
-
-Official Website : https://www.pycaret.org
-
-Follow us on LinkedIn : https://www.linkedin.com/company/pycaret/
-
-Subscribe to our YouTube : https://www.youtube.com/channel/UCxA1YTYJ9BEeo50lxyI_B3g
-
-PyCaret repository : https://www.github.com/pycaret/pycaret
-"# bellout_churn_ml" 
-# churn_bellout_ml
+• Prediction client churn using machine learning algorithms.
+• Data Engineering, data description, data visualization and univariate analysis with features variable and target
+• Performing data pre-processing like categorization and scaling
+• Comparing machine learning models algorithms (SVM, Logistic Regression, Decision tree, Random Forest, Gradient Boost, XGBoost)
+•	Model evaluation using accuracy, precision, recall, f1-score and confusion matrix
+• Tuning best model using GridSearchCV method to increase final model performance
+• Deploy model on web application using streamlit, github and heroku
